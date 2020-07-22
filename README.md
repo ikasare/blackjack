@@ -25,8 +25,8 @@ To access the game, please follow the following steps:
 
 ### Game Rules 
 
-Players are to get a higher score or total than the dealer without going  above a score of 21.
-The dealer deals one card to the player then to himself. The player but not the dealer gets a second card. 
-The player decides to stick with the total they have or hit(get another card). A player can hit as many times as they like 
+- Players are to get a higher score or total than the dealer without going  above a score of 21.
+- The dealer deals one card to the player then to himself. The player but not the dealer gets a second card. 
+- The player decides to stick with the total they have or hit(get another card). A player can hit as many times as they like 
 but assoon as their total goes above 21 they bust and the dealer wins.
-The cards a player holds when they stick is called their hands. 
+- The cards a player holds when they stick is called their hands. 
