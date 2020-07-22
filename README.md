@@ -38,7 +38,7 @@ but as soon as their total goes above 21 they bust and the dealer wins.
 - The ace can have both values of 1 and 11 and the player decides which to use so they get the best total from their hand.
 - It's a draw if score is the same.
 
-
+<br> <br>
 
 <div>
    <img src="Blackjack image.png">
