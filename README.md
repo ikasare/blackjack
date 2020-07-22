@@ -3,7 +3,7 @@
 
 A simple project that aims to recreate the card game Blackjack.
 
-###### How To Access Game
+### How To Access Game
 
 Here, `blackjack.py` is the main file.
 To access the game, please follow the following steps:
