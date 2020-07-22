@@ -30,3 +30,8 @@ To access the game, please follow the following steps:
 - The player decides to stick with the total they have or hit(get another card). A player can hit as many times as they like 
 but assoon as their total goes above 21 they bust and the dealer wins.
 - The cards a player holds when they stick is called their hands. 
+- Once the player sticks, the dealer then gets a second card and decides to stick or hit. This works the same as for players.
+- The dealer however cannot stick on less than 17.
+-Once the dealer is done if the player has a higher total than him then he loses and the player wins.
+- The ace can have both values of 1 and 11 and the player decides which to use so they get the best total from their hand.
+- It's a draw if score is the same.
