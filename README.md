@@ -3,6 +3,7 @@
 
 A simple project that aims to recreate the card game Blackjack.
 
+###### How To Access Game
 
 Here, `blackjack.py` is the main file.
 To access the game, please follow the following steps:
@@ -21,3 +22,5 @@ To access the game, please follow the following steps:
    - Hit enter/return.
    
 6. Type `python blackjack.py` in the PowerShell or Terminal Window. 
+
+### Game Rules 
