@@ -41,5 +41,5 @@ but as soon as their total goes above 21 they bust and the dealer wins.
 <br> 
 
 <div>
-   <img src="Blackjack image.png">
+   <img src="Blackjack image.png" alt="blackjack game image">
 </div>
