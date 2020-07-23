@@ -5,8 +5,10 @@ import tkinter
 def load_images(card_images):
     suits = ['heart', 'club', 'diamond', 'spade']
     face_cards = ['jack', 'queen', 'king']
-
-    extension = 'png'
+    if tkinter.TkVersion >= 8.6:
+        extension = 'png'
+    else:
+        extension = 'ppm'
     # for each suit retrieve image of card
     for suit in suits:
         # we first do for cards 1 to 10
