@@ -27,6 +27,7 @@ def deal_card(frame):
     # pop the next card of the top of the deck
     next_card = deck.pop(0)
     # add the image to a label and display the label
+    deck.append(next_card)
     tkinter.Label(frame, image=next_card[1], relief='raised').pack(side='left')
     # now return the card's face value
     return next_card
