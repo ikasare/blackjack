@@ -21,7 +21,7 @@ To access the game, please follow the following steps:
    - Drag and drop the Blackjack folder onto the PowerShell or Terminal Window.
    - Hit enter/return.
    
-6. Type `python blackjack.py` in the PowerShell or Terminal Window.
+6. Type `python blackjack.py` or `python3 blackjack.py` for systems that identify python as python3 in the PowerShell or Terminal Window.
 
 <hr>
 
